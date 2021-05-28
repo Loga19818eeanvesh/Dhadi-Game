@@ -1,0 +1,13 @@
+body {
+  background-color: #000000 ;
+  color: #ffffff;
+}
+.active{
+  background-color: #808080;
+  height : auto;
+}
+#canvassElement {
+background : url("ThreeMenMorrisImage.jpeg");
+margin : auto ;
+z-index : -1;
+}
