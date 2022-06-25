@@ -11,6 +11,6 @@ Express.js, HTML, CSS, JavaScript
 3. You need to have node.js installed in your machine
 
 ## Snapshots
-![Home Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%203.34.56%20PM.png?raw=true)
-![Dhadi Game](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%203.35.31%20PM.png?raw=true)
-![Three Mens Morris Game](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%203.35.53%20PM.png?raw=true)
+![Home Page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-05-28%20at%203.34.56%20PM.png?raw=true)
+![Dhadi Game](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-05-28%20at%203.35.31%20PM.png?raw=true)
+![Three Mens Morris Game](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-05-28%20at%203.35.53%20PM.png?raw=true)
